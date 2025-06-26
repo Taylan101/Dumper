@@ -1,5 +1,3 @@
-# Dumper
-
 --[[
                     Better script dumper
     basicaly a script dumper but it keeps the Instance hierarchy
